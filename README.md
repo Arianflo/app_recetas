@@ -1,16 +1,25 @@
-# evaluacion
+# App de Recetas 🍲
 
-A new Flutter project.
+Una aplicación móvil de recetas desarrollada con **Flutter** en **Visual Studio Code**, que permite a los usuarios buscar, filtrar, visualizar y guardar recetas culinarias.  
+Ofrece una experiencia interactiva, moderna y accesible desde cualquier dispositivo **Android**.
 
-## Getting Started
+## 🚀 Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Búsqueda de recetas por nombre, categoría o país.
+- Visualización de imagen, categoría, país de origen e instrucciones.
+- Sistema de favoritos usando `Provider`.
+- Consumo de API externa (*TheMealDB*).
+- Interfaz amigable e intuitiva.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tecnologías Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**
+- **Dart**
+- **Provider (State Management)**
+- **TheMealDB API**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ▶️ Ejecución del Proyecto
+
+1. Clonar este repositorio:
+   ```bash
+   git clone https://github.com/Arianflo/app_recetas.git
